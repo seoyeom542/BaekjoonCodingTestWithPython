@@ -1,2 +1,2 @@
-# -with-Python
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# Baekjoo Coding Test With Python
+데이터 분석 직무로 전환하기 위한 파이썬 공부 레포입니다.
