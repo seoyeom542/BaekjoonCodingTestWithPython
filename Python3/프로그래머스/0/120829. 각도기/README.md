@@ -85,3 +85,18 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+
+## 분석해 볼 코드
+
+````markdown
+``` python
+# 1
+   if angle<=90:
+        return 1 if angle<90 else 2
+    else:
+        return 3 if angle<180 else 4
+# 2
+    answer = (angle // 90) * 2 + (angle % 90 > 0) * 1
+    return answer
+```
+````
