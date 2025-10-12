@@ -71,3 +71,10 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+
+## 추가로 공부할 내용 (다른 사람 풀이에서 가져온 내용)
+````markdown
+``` python
+solution = int.__floordiv__
+```
+````
