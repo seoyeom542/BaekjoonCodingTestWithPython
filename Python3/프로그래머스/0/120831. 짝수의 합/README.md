@@ -65,3 +65,8 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+
+<h5>공부해야 할 코드</h5>
+```
+return sum(range(0, n+1, 2))
+```
